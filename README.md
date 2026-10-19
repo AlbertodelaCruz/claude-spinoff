@@ -48,3 +48,7 @@ Opcional, para que no pida permiso al lanzar el script, añade en `~/.claude/set
 | `launch.sh` | `launch.sh <dir> <nombre> <0\|1> <brief>`: valida y abre la pestaña. |
 
 Para otro terminal, adapta la línea `ptyxis --tab ...` de `launch.sh` (p. ej. `gnome-terminal --tab --working-directory=... --`, `kitty @ launch --type=tab --cwd=...`, `tmux new-window -c ...`).
+
+## Licencia
+
+[MIT](LICENSE)
