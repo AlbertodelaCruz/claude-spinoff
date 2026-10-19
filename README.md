@@ -23,7 +23,7 @@ Cuando en mitad de una sesión de Claude Code surge otra tarea, `/spinoff` la se
 ## Instalación
 
 ```sh
-git clone git@github.com:AlbertodelaCruz/claude-spinoff.git ~/.claude/skills/spinoff
+git clone https://github.com/AlbertodelaCruz/claude-spinoff.git ~/.claude/skills/spinoff
 ```
 
 Claude Code detecta la skill automáticamente (no hace falta reiniciar).
